@@ -1,6 +1,6 @@
 # Integration Suite (CPI).
 
-## Criando um Iflow.
+## Criando um Iflow simples com o POSTMAN.
 
 
 <p align="center">
