@@ -15,3 +15,17 @@
 <img src="/assets/Iflow3.png" >
 </p>
 
+## Criando um Iflow que envia email para o Gmail.
+
+
+<p align="center">
+<img src="/assets/Iflow4.png" >
+</p>
+
+<p align="center">
+<img src="/assets/Iflow5.png" >
+</p>
+
+<p align="center">
+<img src="/assets/Iflow6.png" >
+</p>
